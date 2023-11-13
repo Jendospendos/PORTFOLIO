@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color:white;
+    max-width: 1280px;
+    height: 1000px;
+    margin: 0 auto;
+}
+.Header{
+    height: 25%;
+}
+.Title{
+
+}
+.Profile{
+height: 30%;
+
+}
+.Block{
+height: 40%;
+
+}
+.footer{
+height: 5%;
+
+}
