@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    color:white;
+    max-width: 1280px;
+    outline: white solid 1px;
+    margin: 0 auto;
+}
+.header{
+    height: 50px;
+}
+.title{
+color: white;
+}
+.profile{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    outline: red solid 1px;
+    margin: 0 auto;
+}
+.profile__image{
+    width: 200px;
+    margin: 20px auto;
+    cursor: pointer;
+    
+}
+.profile__image_unvisible{
+    opacity: 5%;
+}
+.profile__input{
+    margin: 0 auto 20px auto;
+}
+.profile__button{
+    margin: 0 auto 20px auto;
+    cursor: pointer;
+}
+.blocks{
+height: 40px;
+
+}
+.footer{
+height: 5px;
+
+}
